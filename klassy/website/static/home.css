@@ -1,0 +1,524 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+}
+.container{}
+.controw{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.klassy{
+    position: relative;
+    background-color:#CC6666;
+    padding-bottom: 190px;
+    padding-top: 207px;
+    padding-right: 103px;
+    margin-left: 10px;
+    margin-top: 0px;
+    align-items: center;
+}
+.klassy h1{
+    line-height: 0%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    position: absolute;
+}
+.klassy h2{
+    margin-top: 60px;
+    margin-left: 60px;
+    line-height: 0%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.lovely{
+    width: 10px;
+    margin-right: 20px;
+
+}
+.lovely img{
+    margin-right: 300px;
+    margin-left: px;
+    position: absolute;
+    padding-bottom: 10px;
+}
+.about{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.about h1{
+    color: #CC6666;
+    font-size: large;
+}
+.col1{
+    
+}
+.dishes{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+}
+.dishes img{
+    height: 20%;
+    width: 10%;
+    margin-right: 20px;
+}
+.rest{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.rest img{
+    margin-bottom: 20px;
+    margin-right: 400px;
+    height: 380px;
+    width: 380px;
+}
+.Shapes{
+    padding-left: 120px;
+    margin-top:150px;
+    margin-right: 100px;
+    position: absolute;
+    display: inline;
+    margin-bottom: 0px;
+}
+.circle {
+    position:absolute;
+    margin-top: 00px;
+    margin-bottom: 0px;
+    height: 100px;
+    width: 100px;
+    background-color:#CC6666;
+    border-radius: 50%;
+  }
+.traingle{
+    margin-left: 43px;
+    margin-top: 40px;
+    position: relative;
+    height: 0%;
+    width: 0%;
+    border-bottom: 12.5px solid transparent;
+    border-top: 12.5px solid transparent;
+    border-left: 25px solid white;
+}
+.Menu{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}
+.Menu h1{
+    position: absolute;
+    margin-left: 100px;
+  color: #CC6666;
+  font-size: large;
+}
+.Menu h2{
+    color: black;
+    margin-left: 100px;
+}
+.cont{
+    display: flex;
+}
+.image-container{
+  margin-top: 150px;
+  position: relative;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.head1{
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #CC6666;
+  padding: 5px;
+}
+.head2{
+  color: white;
+  margin-top: 120px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #CC6666;
+  padding: 4px;
+}
+.sign{
+    margin-bottom: 10px;
+    line-height: 0%;
+    color: #CC6666;
+    text-align: center;
+}
+
+.Chefs{
+    margin-top: 100px;
+    margin-left: 570px;
+}
+.Chefs h1{
+    color: #CC6666;
+    font-size: small;
+    line-height: 0%;
+    margin-left: 150px;
+}
+.Chefs h2{
+    color: black;
+    margin-left: 150px;
+}
+.chefs-pic{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    }
+.image-contain{
+    margin-left: 10px;
+    padding-left: 0px;
+    height: 25%;
+    width: 10%;
+    position: absolute;
+    display: block;
+    border: 3px solid black;
+    opacity: unset;
+}
+.image-contain img{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    align-items: center;
+    display: block;
+    width: 94%;
+    height: 80%;
+}
+.name{
+    text-align: center;
+}
+.duty{
+    text-align: center;
+    margin-left: 3px;
+}
+.image1-contain{
+    margin-left: 250px;
+    padding-left: 0px;
+    height: 25%;
+    width: 10%;
+    position: absolute;
+    display: block;
+    border: 3px solid black;
+    opacity: unset;
+}
+.image1-contain img{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    align-items: center;
+    display: block;
+    width: 94%;
+    height: 80%;
+}
+.image2-contain{
+    margin-left: 500px;
+    padding-left: 0px;
+    height: 25%;
+    width: 10%;
+    position: absolute;
+    display: block;
+    border: 3px solid black;
+    opacity: unset;
+}
+.image2-contain img{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    align-items: center;
+    display: block;
+    width: 94%;
+    height: 80%;
+}
+.conta{
+    
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    position:absolute;
+    height: 80%;
+    width: 100%;
+    opacity: 90%;
+    margin-top: 250px;
+    background-color: black;
+}
+.contact img{
+    height: 100%;
+    width: 100%;
+    opacity: 10%;
+}
+.heading1 h1, h2{
+    margin-left: 400px;
+    padding-top: 200px;
+    margin-top: 40px;
+    position:absolute;
+    color: white;
+}
+.heading1{
+    margin-left:;
+    opacity: 90%;
+    position: ;    
+}
+.contact h2{
+    color: white;
+    margin-top: 90px;
+}
+.Holder{
+    margin-top: 200px;
+    position: absolute;
+}
+.holder-heading{
+    display: flex;
+    margin-top: 200px;
+    flex-direction: row;
+    margin-left: 370px;
+}
+.phone-holder{
+    background-color: white;
+    position: relative;
+    border: 2px solid black;
+    padding: 10px;
+
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+    background-color: #CC6666;
+    left: 70px;
+    border-radius: 50px;
+    bottom: 35px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    position: relative;
+    margin-bottom: px;
+}
+.phone-holder .icon i {
+    top: 10px;
+    right: -32px;
+    position: absolute;
+    rotate: 120deg;
+    height: 40px;
+    width: 40px;
+    color: white;
+    font-size: larger;
+    margin-right:50px;
+    padding: 0%;
+    
+    margin-bottom: 10px; /* Adjust spacing between icon and text */
+}
+.phone-holder1{
+    margin-left: 20px;
+    background-color: white;
+    position: relative;
+    border: 2px solid black;
+    padding: 10px;
+
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+    background-color: #CC6666;
+    left: 70px;
+    border-radius: 50px;
+    bottom: 35px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    position: relative;
+    margin-bottom: px;
+}
+.phone-holder1 .icon i {
+    top: 15px;
+    right: -52px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    color: white;
+    font-size: larger;
+    margin-right:50px;
+    padding: 0%;
+    
+    margin-bottom: 10px; /* Adjust spacing between icon and text */
+
+}
+.text-content{
+    padding: 0;
+
+}
+.text-content p {
+    margin: 0;
+    padding: 5px;
+    top: -45px;
+}
+.text-content h2{
+    font-size: large;
+    margin: 0%;
+}
+
+.text-content p {
+    margin: 0;
+    padding: 5px;
+}
+.text-content h2{
+    font-size: large;
+    margin: 0%;
+}
+
+.registration-form{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0%;
+    padding-bottom: 170px;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 1050px;
+    margin-bottom: 50px;
+  }  
+  .registration-form h1{
+    align-content: center;
+    padding: 0%;
+    color: black;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+    text-align: left;
+  }
+  .reg-form{
+    margin: 0%;
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .reg-form form input{
+    margin: 10px;
+    border:0;
+    border-bottom: 2px;
+    border-left: 2px;
+    border-style: groove;
+    border-color: aqua;
+  }
+  .reg-form .form1{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+  }
+  .reg-form .form2{
+    position: relative;
+    padding-left: 200px;
+    display: flex;
+    flex-direction: column;
+  }
+  .button1{
+    position: absolute;
+    padding-left: 100px;
+    position: absolute;
+    color: white;
+    margin-top: 250px;
+    margin-right: 0px;
+}
+.button1 input{
+    padding-right: 250px;
+    padding-left: 115px;
+}
+.message-box{
+    left: 7%;
+    margin-top: 120px;
+    position: absolute;
+}
+.message-box input{   
+    padding-right: 200px; 
+    padding-bottom: 100px;
+    border: 2px;
+    border-style: groove;
+    border-color: black;
+  }
+ .Klassy-Special{
+    margin-top: 900px;
+    position: relative;
+}
+.head-content{
+    
+    position: absolute;
+}
+.hotel-menu{
+    padding-left: 0px;
+    padding-top: 200px;
+}
+.menu-heading{
+    text-align: center;
+}
+.menu-heading a{
+    text-decoration: none;
+    padding-right: 20px;
+    color: black;
+}
+.menu-orientation{
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.menu-column{
+    margin-right: px;
+    display: flex;
+    flex-direction: row;
+    margin-left: px;
+}
+.menu-column1{
+    display: flex;
+    flex-direction: column;
+}
+.breakfast{
+    margin-left: 00px; 
+    margin-top:100px;
+    margin-right: 300px;
+
+    float: left;
+}
+.breakfast h1{
+    margin-left: 150px;
+    position: absolute;
+}
+.breakfast h2{
+    color: white;
+    background-color: #CC6666;
+    margin-left: 20px;
+    padding: 20px;
+    margin-left: 480px;
+   position: absolute;
+}
+.breakfast h3{
+    font-weight: lighter;
+    text-decoration: none;
+    margin-left: 150px;
+    margin-top: 70px;
+    position: absolute;
+}
+.breakfast img{
+    margin-right: 70px;
+    margin-top: 20px;
+    position: absolute;
+    width: auto;
+    height: 95px;
+}
